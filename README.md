@@ -7,7 +7,7 @@
 
 - 👯 Estou desenvolvendo a [plataforma da EmpreendimentosRJ](https://empreendimentosrj.com.br/)
 
-- 🤝 Procuro ajuda para uma **oportunidade no mundo corporativo**
+- 🤝 Procuro novas **oportunidades no mundo corporativo**
 
 - 📫 Você me encontra no email **ifs_360@hotmail.com**
 

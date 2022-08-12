@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente, estou aprendendo **ReactJS**
 
-- 👯 Estou desenvolvendo a [plataforma da EmpreendimentosRJ](https://empreendimentosrj.com.br/)
+- 👯 Estou desenvolvendo e melhorando a [plataforma da EmpreendimentosRJ](https://empreendimentosrj.com.br/)
 
 - 🤝 Procuro novas **oportunidades no mundo corporativo**
 

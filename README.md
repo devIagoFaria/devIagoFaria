@@ -1,13 +1,13 @@
 <h1 align="center">Oi👋, Eu sou Iago Faria</h1>
 <h3 align="center">Um amante do desenvolvimento web e apaixonado por aprender</h3>
 
-- 🔭 Atualmente, realizo alguns **trabalhos de Freelancer**
+- 🔭 Atualmente, realizo alguns **trabalhos de Freelancer** e atualmente trabalho na **Vibra Energia**
 
-- 🌱 Atualmente, estou aprendendo **ReactJS**
+- 🌱 Atualmente, estou aprendendo **JAVA**
 
 - 👯 Estou desenvolvendo e melhorando a [plataforma da EmpreendimentosRJ](https://empreendimentosrj.com.br/)
 
-- 🤝 Procuro novas **oportunidades no mundo corporativo**
+- 🤝 Procuro **oportunidades no mundo corporativo**
 
 - 📫 Você me encontra no email **ifs_360@hotmail.com**
 
